@@ -1,0 +1,86 @@
+{
+    "Dogs": [
+      {
+        "Age": "1 year",
+        "Weight": "Up to 20lbs",
+        "SocialSpots": "https://washington.org/visit-dc/dog-friendly-places-washington-dc",
+        "FoodAmount": "~600 calories",
+        "FoodSites": "https://www.splootvets.com/post/healthiest-human-foods-dogs-can-eat#:~:text=1.-,Cooked%2C%20Unseasoned%20Chicken%2C%20Turkey%2C%20or%20Beef,giving%20them%20to%20your%20dog.",
+        "DogImage": "https://raw.githubusercontent.com/nickolasAva/IT315JSONData/main/chihuahua1yr20lb.jpeg",
+        "DogDescription": "This category encompasses small breed dogs that are up to 1 year old and weigh up to 20 lbs. These dogs typically have higher energy levels and may require smaller portion sizes compared to larger breeds. Common examples include Chihuahuas, Pomeranians, and Yorkshire Terriers. Depending on the age of the dog first consider feeding them canned food until they are old enough to consume whole meals."
+      },
+      {
+        "Age": "1 year",
+        "Weight": "20lb - 50 lb",
+        "SocialSpots": "https://washington.org/visit-dc/dog-friendly-places-washington-dc",
+        "FoodAmount": "~1000 calories",
+        "FoodSites": "https://www.splootvets.com/post/healthiest-human-foods-dogs-can-eat#:~:text=1.-,Cooked%2C%20Unseasoned%20Chicken%2C%20Turkey%2C%20or%20Beef,giving%20them%20to%20your%20dog.",
+        "DogImage": "https://raw.githubusercontent.com/nickolasAva/IT315JSONData/main/dog_yorkshire_terrier_small_6.jpg",
+        "DogDescription": "This category encompasses small breed dogs that are up to 1 year old and weigh between 20 - 50 lbs. These dogs are generally more active and may require moderate portion sizes to support their growth and energy needs. Examples of dogs that fit into this category include Beagles, Bulldogs, and Cocker Spaniels, among others. Dogs of the size and depending on their age could consume meals containing chicken, pasta, and peas"
+      },
+      {
+        "Age": "1 year",
+        "Weight": "50 lb plus",
+        "SocialSpots": "https://washington.org/visit-dc/dog-friendly-places-washington-dc",
+        "FoodAmount": "~1700 calories",
+        "FoodSites": "https://www.splootvets.com/post/healthiest-human-foods-dogs-can-eat#:~:text=1.-,Cooked%2C%20Unseasoned%20Chicken%2C%20Turkey%2C%20or%20Beef,giving%20them%20to%20your%20dog.",
+        "DogImage": "https://raw.githubusercontent.com/nickolasAva/IT315JSONData/main/Labrador.jpg",
+        "DogDescription": "This category consists of large breed dogs that are up to 1 year old and weigh 50 lbs or more. These dogs tend to have slower growth rates compared to smaller breeds but still require proper nutrition for their size and activity level. Common examples of dogs in this category include Labrador Retrievers, German Shepherds, and Golden Retrievers. Due to the size of such dogs consider giving them full on meals to help growth. This may include lean beef,rice,and carrots"
+      },
+      {
+        "Age": "1 year - 3 year",
+        "Weight": "Up to 20lbs",
+        "SocialSpots": "https://washington.org/visit-dc/dog-friendly-places-washington-dc",
+        "FoodAmount": "~600 calories",
+        "FoodSites": "https://www.splootvets.com/post/healthiest-human-foods-dogs-can-eat#:~:text=1.-,Cooked%2C%20Unseasoned%20Chicken%2C%20Turkey%2C%20or%20Beef,giving%20them%20to%20your%20dog.",
+        "DogImage": "https://raw.githubusercontent.com/nickolasAva/IT315JSONData/main/englishbulldog.jpg",
+        "DogDescription": "This category consists of small breed dogs that have transitioned out of the puppy stage and are now young adults, aged between 1 and 3 years, with a weight up to 20 lbs. During this phase, dogs continue to maintain their energy levels and may still exhibit playful behavior. Dogs of this stature can now consume full meals like much bigger dogs just in smaller portions. Meals may include fish,potatoes, green beans, and some form of fat.  "
+      },
+      {
+        "Age": "1 year - 3 year",
+        "Weight": "20lb - 50 lb",
+        "SocialSpots": "https://washington.org/visit-dc/dog-friendly-places-washington-dc",
+        "FoodAmount": "~1000 calories",
+        "FoodSites": "https://www.splootvets.com/post/healthiest-human-foods-dogs-can-eat#:~:text=1.-,Cooked%2C%20Unseasoned%20Chicken%2C%20Turkey%2C%20or%20Beef,giving%20them%20to%20your%20dog.",
+        "DogImage": "https://raw.githubusercontent.com/nickolasAva/IT315JSONData/main/englishcocker.jpg",
+        "DogDescription": "This category includes medium-sized breed dogs that have progressed beyond the puppy stage and are now young adults, aged between 1 and 3 years, with a weight ranging from 20 lbs to 50 lbs. These dogs have likely completed their growth spurt but may still exhibit youthful energy and activity. They require and abudance of nutrition so their meals should be plentyful and may include beef,fish,chicken,a source of carbohydrates, and a source of fiber and fat."
+      },
+      {
+        "Age": "1 year - 3 year",
+        "Weight": "50 lb plus",
+        "SocialSpots": "https://washington.org/visit-dc/dog-friendly-places-washington-dc",
+        "FoodAmount": "~1700 calories",
+        "FoodSites": "https://www.splootvets.com/post/healthiest-human-foods-dogs-can-eat#:~:text=1.-,Cooked%2C%20Unseasoned%20Chicken%2C%20Turkey%2C%20or%20Beef,giving%20them%20to%20your%20dog.",
+        "DogImage": "https://raw.githubusercontent.com/nickolasAva/IT315JSONData/main/German.jpg",
+        "DogDescription": "This category encompasses large breed dogs that have transitioned from puppyhood into young adulthood, aged between 1 and 3 years, with a weight of 50 lbs or more. During this phase, large breed dogs continue to mature physically and mentally. Their nutritional requirements reflects that of their stature,so their intake of food should be grand. Once again consider feeding turkey,potatoes,and carrots."
+      },
+      {
+        "Age": "3 year - 5 year",
+        "Weight": "Up to 20lbs",
+        "SocialSpots": "https://washington.org/visit-dc/dog-friendly-places-washington-dc",
+        "FoodAmount": "~600 calories",
+        "FoodSites": "https://www.splootvets.com/post/healthiest-human-foods-dogs-can-eat#:~:text=1.-,Cooked%2C%20Unseasoned%20Chicken%2C%20Turkey%2C%20or%20Beef,giving%20them%20to%20your%20dog.",
+        "DogImage": "https://raw.githubusercontent.com/nickolasAva/IT315JSONData/main/yorkshire.jpg",
+        "DogDescription": "This category encompasses adult dogs between 3 and 5 years old,with a weight up to 20lbs. Smaller breed dogs, in the prime of their adult life, require diets tailored to support their compact size and metabolism. With older age a more attentive care as to the nutritional needs of your dog should be considered greatly. At this stage please consider giving your dog a mixed meal of at least 10% protein, 50% carbohydrates,2.5% fiber,5.5% fat, and a handful of minerals and vitamins to maintain their health."
+      },
+      {
+        "Age": "3 year - 5 year",
+        "Weight": "20lb - 50 lb",
+        "SocialSpots": "https://washington.org/visit-dc/dog-friendly-places-washington-dc",
+        "FoodAmount": "~1000 calories",
+        "FoodSites": "https://www.splootvets.com/post/healthiest-human-foods-dogs-can-eat#:~:text=1.-,Cooked%2C%20Unseasoned%20Chicken%2C%20Turkey%2C%20or%20Beef,giving%20them%20to%20your%20dog.",
+        "DogImage": "https://raw.githubusercontent.com/nickolasAva/IT315JSONData/main/novascotia.jpg",
+        "DogDescription": "This category encompasses adult dogs between 3 and 5 years old, with a weight between 20 lbs and 50 lbs. Medium-sized breed dogs in this range require diets rich in protein and essential nutrients to support their muscle maintenance and energy needs. At this stage please consider giving your dog a mixed meal of at least 10% protein, 50% carbohydrates,2.5% fiber,5.5% fat, and a handful of minerals and vitamins to maintain their health."
+      },
+      {
+        "Age": "3 year - 5 year",
+        "Weight": "50 lb plus",
+        "SocialSpots": "https://washington.org/visit-dc/dog-friendly-places-washington-dc",
+        "FoodAmount": "~1700 calories",
+        "FoodSites": "https://www.splootvets.com/post/healthiest-human-foods-dogs-can-eat#:~:text=1.-,Cooked%2C%20Unseasoned%20Chicken%2C%20Turkey%2C%20or%20Beef,giving%20them%20to%20your%20dog.",
+        "DogImage": "https://raw.githubusercontent.com/nickolasAva/IT315JSONData/main/bull_terrier_bullterrier_english_1.jpg",
+        "DogDescription": "This category encompasses adult dogs between 3 and 5 years old, with a weight of 50 lbs and above. Large breed dogs in this category, are now fully matured, require diets formulated to support their size. At this stage please consider giving your dog a mixed meal of at least 10% protein, 50% carbohydrates,2.5% fiber,5.5% fat, and a handful of minerals and vitamins to maintain their health."
+      }
+    ]
+  }
+  
